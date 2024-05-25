@@ -1,0 +1,40 @@
+body{
+    background: url(../imagenes/fondo.jpeg);
+    background-size: 50%;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    color: aliceblue;
+}
+
+img{
+    margin-left: 35%;
+    height: auto;
+    width: 30%;
+    
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: large;
+}
+
+div{
+    display: flex;
+    color: aliceblue;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+
+div h2{
+    margin-left: 10%;
+    margin-right: 10%;
+}
